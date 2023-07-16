@@ -2,6 +2,11 @@
   <v-app>
     <v-app-bar :elevation="12" rounded hide density="compact">
       <v-btn variant="tonal" @click="pushToHome">Home</v-btn>
+      <v-divider></v-divider>
+      <a href="https://vuetifyjs.com/en/"
+      target="_blank">
+        <v-btn variant="tonal">Vuetify docks</v-btn>
+      </a>
     </v-app-bar>
     <div class="app">
       <router-view />
