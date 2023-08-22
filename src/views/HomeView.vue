@@ -4,11 +4,11 @@
     <router-link class="app__link" to="buttons">Buttons</router-link>
     <router-link class="app__link" to="cards">Cards</router-link>
     <router-link class="app__link" to="chips">Chips</router-link>
+    <router-link class="app__link" to="dialogs">Dialogs</router-link>
   </div>
 
 
   <!-- <router-link class="app__link" to="buttons">Buttons</router-link> -->
-  <!-- <router-link class="app__link" to="dialogs">Dialogs</router-link> -->
   <!-- <router-link class="app__link" to="expansion-panel">Expansion-panel</router-link> -->
   <!-- <router-link class="app__link" to="list">List</router-link> -->
   <!-- <router-link class="app__link" to="menus">Menus</router-link> -->
